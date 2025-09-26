@@ -2,9 +2,11 @@
 
 ###
 
-I'm Sina and I am currently studying Computer Science.\n
-I also am an aspiring game developer.\n
-Binary needs to end, trinary is the future.\n
+I'm Sina and I am currently studying Computer Science.
+
+I also am an aspiring game developer.
+
+Binary needs to end, trinary is the future.
 
 ###
 
