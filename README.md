@@ -2,11 +2,9 @@
 
 ###
 
-I'm Sina and I am currently studying Computer Science.
+I'm Sina and I am currently studying Computer Science. I have experience in coding in C, C#, Java, and Python.
 
-I also am an aspiring game developer.
-
-Binary needs to end, trinary is the future.
+I also am an aspiring game developer, having a project on Unity and also experience working on Godot.
 
 ###
 
